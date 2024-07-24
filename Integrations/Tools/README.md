@@ -3961,10 +3961,10 @@ Timeout - 300 Seconds
 
 |Name|Description|IsMandatory|Type|DefaultValue|
 |----|-----------|-----------|----|------------|
-|Case Sensitive|Should the search be case sensitive?|False|Boolean|false|
 |Text|Enter the text that will be searched.|True|String||
 |Search For|Optional: Enter the string that the Text will be searched for.|False|String|None|
 |Search For Regex|Optional.  List of regexes that will be used to search the string.  Regex should be wrapped in double quotes.  Supports comma delimited list.|False|String|None|
+|Case Sensitive|Should the search be case sensitive?|False|Boolean|false|
 
 
 
