@@ -74,5 +74,29 @@
                 }
             ]
         }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "SSH__213246ea-663a-4629-ac05-f819daedf328",
+        "settings": {
+            "instanceDescription": "1",
+            "instanceName": "SSH - Default Staging Instance",
+            "settings": [
+                {
+                    "integrationIdentifier": "SSH__213246ea-663a-4629-ac05-f819daedf328",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "5ec82263-658b-4ecf-b677-717087a8f720",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
     }
 ]
