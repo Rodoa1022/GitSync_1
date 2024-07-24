@@ -1,0 +1,178 @@
+[
+    {
+        "environment": "*",
+        "integrationIdentifier": "Lists",
+        "settings": {
+            "instanceDescription": null,
+            "instanceName": "Lists_1",
+            "settings": [
+                {
+                    "integrationIdentifier": "Lists",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "e1b30f46-3c20-47d8-8093-fe5a1f65fc12",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "GoogleChronicle",
+        "settings": {
+            "instanceDescription": "a",
+            "instanceName": "GoogleChronicle_1",
+            "settings": [
+                {
+                    "integrationIdentifier": "GoogleChronicle",
+                    "propertyName": "UI Root",
+                    "propertyDescription": "UI root of the Chronicle instance. It will be used to create a link that points back to Chronicle across multiple actions.",
+                    "propertyDisplayName": "UI Root",
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "value": "https://{instance}.chronicle.security",
+                    "integrationInstance": "960d86b6-b540-4d66-95e8-0af6dcba3c6b",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "GoogleChronicle",
+                    "propertyName": "API Root",
+                    "propertyDescription": "API root of the Chronicle instance.",
+                    "propertyDisplayName": "API Root",
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "value": "https://backstory.googleapis.com",
+                    "integrationInstance": "960d86b6-b540-4d66-95e8-0af6dcba3c6b",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "GoogleChronicle",
+                    "propertyName": "User's Service Account",
+                    "propertyDescription": "Service Account that is used for authentication. If not provided, the default Service Account of the SecOps Instance will be used to authenticate.",
+                    "propertyDisplayName": "User's Service Account",
+                    "propertyType": 3,
+                    "isMandatory": false,
+                    "value": "",
+                    "integrationInstance": "960d86b6-b540-4d66-95e8-0af6dcba3c6b",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "GoogleChronicle",
+                    "propertyName": "Verify SSL",
+                    "propertyDescription": "If enabled, verify the SSL certificate for the connection to the Google Chronicle server is valid.",
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "value": "True",
+                    "integrationInstance": "960d86b6-b540-4d66-95e8-0af6dcba3c6b",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "GoogleChronicle",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "960d86b6-b540-4d66-95e8-0af6dcba3c6b",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "Tools",
+        "settings": {
+            "instanceDescription": " ",
+            "instanceName": "Tools_1",
+            "settings": [
+                {
+                    "integrationIdentifier": "Tools",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "8901df47-e179-4388-b40a-ed7c403a1a31",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "Lists__066ecf56-dd94-4033-a71f-052ec0914f52",
+        "settings": {
+            "instanceDescription": "a",
+            "instanceName": "Lists - Default Staging Instance",
+            "settings": [
+                {
+                    "integrationIdentifier": "Lists__066ecf56-dd94-4033-a71f-052ec0914f52",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "fb693b81-c795-4dbe-b591-6e6447bbdf98",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "EmailUtilities__9f12b0e1-42a0-43fb-a4ae-77a0aaeb1d27",
+        "settings": {
+            "instanceDescription": "a",
+            "instanceName": "EmailUtilities - Default Staging Instance",
+            "settings": [
+                {
+                    "integrationIdentifier": "EmailUtilities__9f12b0e1-42a0-43fb-a4ae-77a0aaeb1d27",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "a299b14d-c2f9-4eac-b12a-505fe9f51d6d",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
+    }
+]
