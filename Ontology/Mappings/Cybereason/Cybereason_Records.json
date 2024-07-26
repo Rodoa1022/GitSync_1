@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "source": "Cybereason",
+        "product": "Cybereason",
+        "eventName": null,
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "Cybereason",
+        "product": "Cybereason",
+        "eventName": ".FileModificationTimelineEventModel",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "Cybereason",
+        "product": "Cybereason",
+        "eventName": ".FileSuspectDetailsModel",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "Cybereason",
+        "product": "Cybereason",
+        "eventName": ".MachineDetailsModel",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "Cybereason",
+        "product": "Cybereason",
+        "eventName": ".MalopInboxModel",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "Cybereason",
+        "product": "Cybereason",
+        "eventName": ".ProcessSuspectDetailsModel",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "Cybereason",
+        "product": "Cybereason",
+        "eventName": ".ConnectionDetailsModel",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    }
+]

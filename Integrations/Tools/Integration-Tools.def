@@ -14,289 +14,289 @@
         {
             "Name": "Add Alert Scoring Information",
             "Description": "This action will add an entry to the alert scoring database.  Alert score is based off the ratio: 5 Low = 1 Medium.  3 Medium = 1 High.  2 High = 1 Critical.  Optional tag added to case.",
-            "Id": 94,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 81,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Ping",
             "Description": "Check connectivity",
-            "Id": 101,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 88,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Add Or Update Alert Additional Data",
             "Description": "The action adds or updates fields in the alert additional data. The result will be all accumulated data that was added to the alert. ",
-            "Id": 83,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 70,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Lock Playbook",
             "Description": "This action will cause the current playbook to pause until all playbooks from the previous alert complete.",
-            "Id": 84,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 71,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Normalize Entity Enrichment",
             "Description": "The action receives a list of keys from the entity and replaces them",
-            "Id": 85,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 72,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Get Case Data",
             "Description": "This action will get all the data from a case and return a JSON result.  The result includes comments, entity information, insights, playbooks that ran, alert information and events.",
-            "Id": 86,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 73,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Get Siemplify Users",
             "Description": "This action will return an object containing all users configured in the Siemplify system.",
-            "Id": 87,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 74,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Attach Playbook to All Case Alerts",
             "Description": "Attach a specific playbook to all alerts in a case",
-            "Id": 88,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 75,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Add Comment to Entity Log",
             "Description": "This action will add a comment to the Entity Log for each entity in scope in the Entity Explorer.",
-            "Id": 89,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 76,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "DNS Lookup",
             "Description": "Perform a DNS lookup on an entity.",
-            "Id": 90,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 77,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Attach Playbook to Alert",
             "Description": "This action can attach a playbook or block to an alert.",
-            "Id": 91,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 78,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Spell Check String",
             "Description": "The Spell Check String action will check the spelling of an input string.  It will output the percent accurate, total words, amount of misspelled words, list of each misspelled word and the correction, and a corrected version of the input string.",
-            "Id": 92,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 79,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Append to Context Value",
             "Description": "Append a value to an existing context property or create a new context property and add the value.",
-            "Id": 93,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 80,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Check List Subset",
             "Description": "Check if one list is a subset of another list.",
-            "Id": 95,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 82,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Wait for Playbook to Complete",
             "Description": "This action will cause a playbook to wait until another playbook or block, that is running on the same alert, completes.",
-            "Id": 96,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 83,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Check Entities Fields In Text",
             "Description": "This actions allows to search for a specific field from each entity in the scope (or multiple fields using regex) and compare it with one or more values. The compared values can also go through regex. A match is found if one of the post regex values from the entity enrichment is in one or more values searched in.",
-            "Id": 97,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 84,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Create Entity Relationships",
             "Description": "Creates a relationship between the supplied entities and the linked entities.  If the supplied entities do not exist, it will create them.\nSupports Siemplify 5.6+ ONLY.",
-            "Id": 98,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 85,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Get Context Value",
             "Description": "The action gets a key and value in a specific context (alert or case)",
-            "Id": 99,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 86,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Delay Playbook V2",
             "Description": "This action will temporarily stop a playbook from completing for a period of time.",
-            "Id": 100,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 87,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Search Text",
             "Description": "Search for the 'Search For' parameter in the input text or loop through the 'Search For Regex' list and find matches in the input text.  If there is a match, the action will return true.",
-            "Id": 102,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 89,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Get Email Templates",
             "Description": "Returns all of the email templates in a system.",
-            "Id": 103,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 90,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Buffer",
             "Description": "The action receives a json and returns it as a json result",
-            "Id": 104,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 91,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Get Original Alert Json",
             "Description": "The action gets the original alert Json (raw data) and presents it as a Json result. ",
-            "Id": 105,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 92,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Update Case Description",
             "Description": "This action will update the description of the case.",
-            "Id": 106,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 93,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Convert Into Simulated Case",
             "Description": "",
-            "Id": 107,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 94,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Find First Alert",
             "Description": "The action will return the identifier of the first alert in a given case",
-            "Id": 108,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 95,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Extract URL Domain",
             "Description": "This action enriches all entities with a new field \"siemplifytools_extracted_domain\" containing the extracted domain out of the entity identifier. If the entity has no domain (file hash for example) it will simply not return anything.\nIn addition to entities, the user can specify a list of URLs as a parameter and process them, without enriching, naturally.",
-            "Id": 109,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 96,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Look-A-Like Domains",
             "Description": "This action will compare domain entities against the list of domains defined for the environment.  If the domains are similar the entity will be marked as suspicious and enriched with the matching domain.",
-            "Id": 110,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 97,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Delay Playbook",
             "Description": "This action will temporarily stop a playbook from completing for a period of time.  ",
-            "Id": 111,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 98,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Unflatten JSON",
             "Description": "Unflatten a JSON.",
-            "Id": 112,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 99,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Set Context Value",
             "Description": "The action sets a key and value in a specific context (alert or case)",
-            "Id": 113,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 100,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Assign Case to User",
             "Description": "This action will assign a user to a case.  ",
-            "Id": 114,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 101,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Change Case Name",
             "Description": "The action changes the case's name (title)",
-            "Id": 115,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 102,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Update Alert Score",
             "Description": "This will update the alert score by the amount supplied in the 'Input' parameter. ",
-            "Id": 116,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 103,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Get Current Time",
             "Description": "Returns the current date and time ",
-            "Id": 117,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 104,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Get Integration Instances",
             "Description": "Returns all the integration instances for an environment.",
-            "Id": 118,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 105,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Re-Attach Playbook",
             "Description": "This action will remove a playbook from a case, delete any result data in the case from that playbook, and re-attach the playbook so it will run again.\nRequires installation of PostgreSQL integration, configured to the Shared Environment with an instance name of Siemplify.  See CSM / Support for additional details.",
-            "Id": 119,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 106,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Get Certificate Details",
             "Description": "Getting the certificate of a given URL",
-            "Id": 120,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 107,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Create Siemplify Task",
             "Description": "This action will assign a task to a user or a role.  The task will be related to the case the action ran on.",
-            "Id": 121,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 108,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Create Entities with Separator",
             "Description": "Creates entities and adds them to the requested alert.",
-            "Id": 122,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 109,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         },
         {
             "Name": "Get Case SLA",
             "Description": "Gets the Case SLA and critical SLA in multiple formats.",
-            "Id": 123,
-            "CreationTimeUnixTimeInMs": 1721857684568,
-            "ModificationTimeUnixTimeInMs": 1721857684568
+            "Id": 110,
+            "CreationTimeUnixTimeInMs": 1721839991091,
+            "ModificationTimeUnixTimeInMs": 1721839991091
         }
     ],
     "Categories": [
@@ -313,6 +313,6 @@
     "MinimumSystemVersion": 0.0,
     "ProductionIntegrationIdentifier": null,
     "Id": 0,
-    "CreationTimeUnixTimeInMs": 1721857684558,
-    "ModificationTimeUnixTimeInMs": 1721857684558
+    "CreationTimeUnixTimeInMs": 1721839991079,
+    "ModificationTimeUnixTimeInMs": 1721839991079
 }

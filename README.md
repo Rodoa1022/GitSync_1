@@ -3,6 +3,7 @@
 ## Integrations
 |Name|Description|
 |----|-----------|
+|Cybereason|Cybereason automatically detects malicious activity and presents it in an intuitive way. It deploys easily with minimal organizational impact and provides end-to-end context of an attack campaign.|
 |EmailUtilities|A set of utility actions to assist with working with emails.  Includes actions to parse EMLs and analyze email headers.|
 |FileUtilities|A set of file utility actions created for Google SecOps Community to power up playbook capabilities.|
 |Google Chronicle|Google SecOps enables you to examine the aggregated security information for your enterprise going back for months or longer. Use Google SecOps to search across all of the domains accessed from within your enterprise. To enable the Google API client to communicate with the Backstory API you will need Google Developer Service Account Credential, https://developers.google.com/identity/protocols/OAuth2#serviceaccount.|
