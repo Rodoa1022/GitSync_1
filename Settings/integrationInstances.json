@@ -244,5 +244,165 @@
                 }
             ]
         }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "GoogleChronicle__6250f1d3-c36c-4528-be4f-48b02e155a70",
+        "settings": {
+            "instanceDescription": null,
+            "instanceName": "GoogleChronicle - Default Staging Instance",
+            "settings": [
+                {
+                    "integrationIdentifier": "GoogleChronicle__6250f1d3-c36c-4528-be4f-48b02e155a70",
+                    "propertyName": "UI Root",
+                    "propertyDescription": "UI root of the Chronicle instance. It will be used to create a link that points back to Chronicle across multiple actions.",
+                    "propertyDisplayName": "UI Root",
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "value": "https://{instance}.chronicle.security",
+                    "integrationInstance": "45c42c6f-69e4-47b4-8d44-5b7dae47b638",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "GoogleChronicle__6250f1d3-c36c-4528-be4f-48b02e155a70",
+                    "propertyName": "API Root",
+                    "propertyDescription": "API root of the Chronicle instance.",
+                    "propertyDisplayName": "API Root",
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "value": "https://backstory.googleapis.com",
+                    "integrationInstance": "45c42c6f-69e4-47b4-8d44-5b7dae47b638",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "GoogleChronicle__6250f1d3-c36c-4528-be4f-48b02e155a70",
+                    "propertyName": "User's Service Account",
+                    "propertyDescription": "Service Account that is used for authentication. If not provided, the default Service Account of the SecOps Instance will be used to authenticate.",
+                    "propertyDisplayName": "User's Service Account",
+                    "propertyType": 3,
+                    "isMandatory": false,
+                    "value": "***************",
+                    "integrationInstance": "45c42c6f-69e4-47b4-8d44-5b7dae47b638",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "GoogleChronicle__6250f1d3-c36c-4528-be4f-48b02e155a70",
+                    "propertyName": "Verify SSL",
+                    "propertyDescription": "If enabled, verify the SSL certificate for the connection to the Google Chronicle server is valid.",
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "value": "true",
+                    "integrationInstance": "45c42c6f-69e4-47b4-8d44-5b7dae47b638",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "GoogleChronicle__6250f1d3-c36c-4528-be4f-48b02e155a70",
+                    "propertyName": "RunRemotely",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Run Remotely",
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "value": "False",
+                    "integrationInstance": "45c42c6f-69e4-47b4-8d44-5b7dae47b638",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "GoogleChronicle__6250f1d3-c36c-4528-be4f-48b02e155a70",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "45c42c6f-69e4-47b4-8d44-5b7dae47b638",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "Siemplify__2465f1d7-92dd-4bb4-8eb7-b910f41365a1",
+        "settings": {
+            "instanceDescription": null,
+            "instanceName": "Siemplify - Default Staging Instance",
+            "settings": [
+                {
+                    "integrationIdentifier": "Siemplify__2465f1d7-92dd-4bb4-8eb7-b910f41365a1",
+                    "propertyName": "Recipients",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Monitors Mail Recipients",
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "value": "example@mail.com,example1@mail.com",
+                    "integrationInstance": "6d40b5e9-27fd-4c8b-845c-a66bb1be52a9",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "Siemplify__2465f1d7-92dd-4bb4-8eb7-b910f41365a1",
+                    "propertyName": "Elastic Server Address",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Elastic Server Address",
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "value": "localhost",
+                    "integrationInstance": "6d40b5e9-27fd-4c8b-845c-a66bb1be52a9",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "Siemplify__2465f1d7-92dd-4bb4-8eb7-b910f41365a1",
+                    "propertyName": "RunRemotely",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Run Remotely",
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "value": "False",
+                    "integrationInstance": "6d40b5e9-27fd-4c8b-845c-a66bb1be52a9",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "Siemplify__2465f1d7-92dd-4bb4-8eb7-b910f41365a1",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "6d40b5e9-27fd-4c8b-845c-a66bb1be52a9",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
     }
 ]

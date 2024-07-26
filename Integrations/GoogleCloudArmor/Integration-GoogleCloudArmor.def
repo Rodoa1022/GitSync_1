@@ -1,0 +1,121 @@
+{
+    "IsAvailableForCommunity": false,
+    "Identifier": "GoogleCloudArmor",
+    "ShouldInstalledInSystem": false,
+    "Version": 1.0,
+    "DisplayName": "Google Cloud Armor",
+    "Description": "Google Cloud Armor helps you protect your Google Cloud deployments from multiple types of threats, including distributed denial-of-service (DDoS) attacks and application attacks like cross-site scripting (XSS) and SQL injection (SQLi). Google Cloud Armor features some automatic protections and some that you need to configure manually.",
+    "ImageBase64": "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",
+    "SvgImage": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 23 21\"> <defs> </defs> <path class=\"cls-1\" d=\"M22.8,9.73L17.8.78C17.53.31,17.05,0,16.51,0H6.49C5.95,0,5.47.31,5.2.78L.2,9.73c-.27.47-.27,1.06,0,1.53l5.02,8.95c.27.47.76.75,1.3.78h9.99c.54,0,1.03-.31,1.3-.78l4.99-8.95c.27-.47.27-1.06,0-1.53ZM18,9.71c.01,1.84-.61,3.64-1.78,5.13-1.17,1.49-2.82,2.6-4.72,3.15-.5-.15-.98-.33-1.44-.55l3.69-3.44c.11.03.22.04.34.04.75,0,1.36-.57,1.36-1.26s-.61-1.26-1.36-1.26-1.36.57-1.36,1.26c0,.1.01.19.03.28l-3.93,3.67c-.53-.36-1.03-.78-1.47-1.24l5.58-5.2c.11.03.23.04.34.04.75,0,1.36-.57,1.36-1.26s-.61-1.26-1.36-1.26-1.36.57-1.36,1.26c0,.09.01.19.03.28l-5.46,5.09c-.38-.55-.69-1.14-.93-1.75l3.39-3.16c.11.03.23.04.35.04.75,0,1.36-.57,1.36-1.26s-.61-1.26-1.36-1.26-1.36.57-1.36,1.26c0,.09.01.19.03.28l-2.82,2.63c-.09-.5-.14-1-.13-1.51v-4.04l6.5-2.67v-.02l6.5,2.67v4.05Z\"/></svg>",
+    "IsCustom": false,
+    "PythonVersion": 2,
+    "IntegrationProperties": [
+        {
+            "IntegrationIdentifier": "GoogleCloudArmor",
+            "PropertyName": "API Root",
+            "PropertyDescription": "API root of the Google Cloud Armor service.",
+            "PropertyDisplayName": "API Root",
+            "PropertyType": 2,
+            "IsMandatory": true,
+            "Value": "https://compute.googleapis.com/compute/v1/",
+            "Id": 0,
+            "CreationTimeUnixTimeInMs": 1722037749379,
+            "ModificationTimeUnixTimeInMs": 1722037749379
+        },
+        {
+            "IntegrationIdentifier": "GoogleCloudArmor",
+            "PropertyName": "Project ID",
+            "PropertyDescription": "Project ID to use for the Cloud Armor integration. If no value is provided, the Project ID is extracted from the JSON file content provided in the User Service Account parameter.",
+            "PropertyDisplayName": "Project ID",
+            "PropertyType": 2,
+            "IsMandatory": false,
+            "Value": "",
+            "Id": 0,
+            "CreationTimeUnixTimeInMs": 1722037749379,
+            "ModificationTimeUnixTimeInMs": 1722037749379
+        },
+        {
+            "IntegrationIdentifier": "GoogleCloudArmor",
+            "PropertyName": "Workload Identity Email",
+            "PropertyDescription": "Client email of your service account. You can configure either this parameter or the User Service Account parameter. Note: To impersonate service accounts with the Workload Identity Email, grant the Service Account Token Creator role to your service account. For more details about workload identities and how to work with them, see Identities for workloads (https://cloud.google.com/iam/docs/workload-identities).",
+            "PropertyDisplayName": "Workload Identity Email",
+            "PropertyType": 2,
+            "IsMandatory": false,
+            "Value": "",
+            "Id": 0,
+            "CreationTimeUnixTimeInMs": 1722037749379,
+            "ModificationTimeUnixTimeInMs": 1722037749379
+        },
+        {
+            "IntegrationIdentifier": "GoogleCloudArmor",
+            "PropertyName": "User Service Account",
+            "PropertyDescription": "Content of the service account JSON file that you use for the Google Cloud Armor service. Provide a full content of the service account JSON file. You can configure either this parameter or the Workload Identity Email parameter.",
+            "PropertyDisplayName": "User Service Account",
+            "PropertyType": 3,
+            "IsMandatory": false,
+            "Value": null,
+            "Id": 0,
+            "CreationTimeUnixTimeInMs": 1722037749379,
+            "ModificationTimeUnixTimeInMs": 1722037749379
+        },
+        {
+            "IntegrationIdentifier": "GoogleCloudArmor",
+            "PropertyName": "Verify SSL",
+            "PropertyDescription": "If selected, the parameter verifies that the SSL certificate for the connection to the Google Cloud Armor service is valid.",
+            "PropertyDisplayName": "Verify SSL",
+            "PropertyType": 0,
+            "IsMandatory": false,
+            "Value": "true",
+            "Id": 0,
+            "CreationTimeUnixTimeInMs": 1722037749379,
+            "ModificationTimeUnixTimeInMs": 1722037749379
+        }
+    ],
+    "IntegrationSupportedActions": [
+        {
+            "Name": "Add a Rule to a Security Policy",
+            "Description": "Add a new rule to the security policy in the Google Cloud Armor service. This action doesn't run on Google SecOps SOAR entities.",
+            "Id": 232,
+            "CreationTimeUnixTimeInMs": 1722037749386,
+            "ModificationTimeUnixTimeInMs": 1722037749386
+        },
+        {
+            "Name": "Create a Security Policy",
+            "Description": "Create a security policy in the Google Cloud Armor service. This action doesn't run on Google SecOps SOAR entities.",
+            "Id": 229,
+            "CreationTimeUnixTimeInMs": 1722037749386,
+            "ModificationTimeUnixTimeInMs": 1722037749386
+        },
+        {
+            "Name": "Ping",
+            "Description": "Test connectivity to the Google Cloud Armor service with parameters provided at the integration configuration page.",
+            "Id": 230,
+            "CreationTimeUnixTimeInMs": 1722037749386,
+            "ModificationTimeUnixTimeInMs": 1722037749386
+        },
+        {
+            "Name": "Update a Security Policy",
+            "Description": "Update the existing security policy in the Google Cloud Armor service. The action cannot update rules in a policy. To add a rule to the related policy, use the Add a Rule to a Security Policy action. This action doesn't run on Google SecOps SOAR entities.",
+            "Id": 231,
+            "CreationTimeUnixTimeInMs": 1722037749386,
+            "ModificationTimeUnixTimeInMs": 1722037749386
+        }
+    ],
+    "Categories": [
+        "Network Security",
+        "WAF"
+    ],
+    "HasConnectors": false,
+    "DocumentationLink": "https://cloud.google.com/chronicle/docs/soar/marketplace-integrations/google-cloud-armor",
+    "IsCertified": false,
+    "UploaderFullName": null,
+    "PublishComment": null,
+    "UploaderEmail": null,
+    "UploaderImageBase64": null,
+    "UploaderProfileLink": null,
+    "MinimumSystemVersion": 0.0,
+    "ProductionIntegrationIdentifier": null,
+    "Id": 0,
+    "CreationTimeUnixTimeInMs": 1722037749379,
+    "ModificationTimeUnixTimeInMs": 1722037749379
+}

@@ -1,0 +1,97 @@
+{
+    "IsAvailableForCommunity": false,
+    "Identifier": "GoogleChat",
+    "ShouldInstalledInSystem": false,
+    "Version": 1.0,
+    "DisplayName": "Google Chat",
+    "Description": "From direct messages to group conversations, Google Chat and Spaces help teams collaborate fluidly and efficiently from anywhere. Securely connect with anyone you work with, and take group work to the next level with shared chat, files and tasks.",
+    "ImageBase64": "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",
+    "SvgImage": "<svg id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 26 25\"><path d=\"M21.42,2H9.12c-.87,0-1.58,.71-1.58,1.59v1.51h9.34c1.89,0,3.04,1.16,3.04,3v6.82h1.5c.87,0,1.58-.71,1.58-1.59V3.59c0-.88-.7-1.59-1.58-1.59Z\"/><path d=\"M18.46,17.9V8.09c0-.88-.7-1.59-1.58-1.59H4.58c-.87,0-1.58,.71-1.58,1.59v14.11c0,.71,.85,1.06,1.35,.56l3.26-3.28h9.28c.87,0,1.58-.71,1.58-1.59Z\"/></svg>",
+    "IsCustom": false,
+    "PythonVersion": 2,
+    "IntegrationProperties": [
+        {
+            "IntegrationIdentifier": "GoogleChat",
+            "PropertyName": "API Root URL",
+            "PropertyDescription": "API Root URL integration should use to connect to Google Chat service.",
+            "PropertyDisplayName": "API Root URL",
+            "PropertyType": 2,
+            "IsMandatory": true,
+            "Value": "https://chat.googleapis.com/",
+            "Id": 0,
+            "CreationTimeUnixTimeInMs": 1722037720293,
+            "ModificationTimeUnixTimeInMs": 1722037720293
+        },
+        {
+            "IntegrationIdentifier": "GoogleChat",
+            "PropertyName": "Service Account",
+            "PropertyDescription": "Service account JSON file content that chat bot should use to work with Google Chat service.",
+            "PropertyDisplayName": "Service Account",
+            "PropertyType": 3,
+            "IsMandatory": true,
+            "Value": null,
+            "Id": 0,
+            "CreationTimeUnixTimeInMs": 1722037720293,
+            "ModificationTimeUnixTimeInMs": 1722037720293
+        },
+        {
+            "IntegrationIdentifier": "GoogleChat",
+            "PropertyName": "Verify SSL",
+            "PropertyDescription": "If enabled, verify the SSL certificate for the connection to the Google Chat service is valid.",
+            "PropertyDisplayName": "Verify SSL",
+            "PropertyType": 0,
+            "IsMandatory": false,
+            "Value": "true",
+            "Id": 0,
+            "CreationTimeUnixTimeInMs": 1722037720293,
+            "ModificationTimeUnixTimeInMs": 1722037720293
+        }
+    ],
+    "IntegrationSupportedActions": [
+        {
+            "Name": "List Spaces",
+            "Description": "List spaces that currently configured Google Chat bot was added to. Note: Action is not running on Siemplify entities.",
+            "Id": 223,
+            "CreationTimeUnixTimeInMs": 1722037720299,
+            "ModificationTimeUnixTimeInMs": 1722037720299
+        },
+        {
+            "Name": "Send Message",
+            "Description": "Send a message to a Google Chat space that the Siemplify app was added to. Note that action is not working on Siemplify entities.",
+            "Id": 224,
+            "CreationTimeUnixTimeInMs": 1722037720299,
+            "ModificationTimeUnixTimeInMs": 1722037720299
+        },
+        {
+            "Name": "Send Advanced Message",
+            "Description": "Send an advanced message to a Google Chat space based on provided message JSON payload. Note that action is not working on Siemplify entities.",
+            "Id": 225,
+            "CreationTimeUnixTimeInMs": 1722037720299,
+            "ModificationTimeUnixTimeInMs": 1722037720299
+        },
+        {
+            "Name": "Ping",
+            "Description": "Test connectivity to the Google Chat service with parameters provided at the integration configuration page on the Marketplace tab.",
+            "Id": 226,
+            "CreationTimeUnixTimeInMs": 1722037720299,
+            "ModificationTimeUnixTimeInMs": 1722037720299
+        }
+    ],
+    "Categories": [
+        "IT and Infrastructure",
+        "Google"
+    ],
+    "HasConnectors": false,
+    "DocumentationLink": "https://cloud.google.com/chronicle/docs/soar/marketplace-integrations/google-chat",
+    "IsCertified": false,
+    "UploaderFullName": null,
+    "PublishComment": null,
+    "UploaderEmail": null,
+    "UploaderImageBase64": null,
+    "UploaderProfileLink": null,
+    "MinimumSystemVersion": 0.0,
+    "ProductionIntegrationIdentifier": null,
+    "Id": 0,
+    "CreationTimeUnixTimeInMs": 1722037720293,
+    "ModificationTimeUnixTimeInMs": 1722037720293
+}

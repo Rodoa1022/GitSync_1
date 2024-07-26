@@ -12,23 +12,9 @@
     "IntegrationProperties": [],
     "IntegrationSupportedActions": [
         {
-            "Name": "Analyze EML Headers",
-            "Description": "This actions gets a base64 EML or list of headers and extracts/analyses its headers",
-            "Id": 113,
-            "CreationTimeUnixTimeInMs": 1721840057093,
-            "ModificationTimeUnixTimeInMs": 1721840057093
-        },
-        {
             "Name": "Analyze Headers",
             "Description": "Analyze Headers accepts a JSON object containing a list of Email headers.  The action will validate the SPF, DMARC, ARC, and DKIM records in the email.  It will also check to see if any of the relay servers are blacklisted by querying multiple RBLs and enrich them with geo-location and IP whois information.",
             "Id": 111,
-            "CreationTimeUnixTimeInMs": 1721840057093,
-            "ModificationTimeUnixTimeInMs": 1721840057093
-        },
-        {
-            "Name": "Parse Base64 Email",
-            "Description": "This action is an improved version of Parse EML Base64 blob.  It will parse EML and MSG files.",
-            "Id": 115,
             "CreationTimeUnixTimeInMs": 1721840057093,
             "ModificationTimeUnixTimeInMs": 1721840057093
         },
@@ -40,9 +26,9 @@
             "ModificationTimeUnixTimeInMs": 1721840057093
         },
         {
-            "Name": "Parse EML Base64 Blob",
-            "Description": "This action will decode a base64 string and attempt to parse it as an EML file.  It will return a list of parsed objects.",
-            "Id": 116,
+            "Name": "Analyze EML Headers",
+            "Description": "This actions gets a base64 EML or list of headers and extracts/analyses its headers",
+            "Id": 113,
             "CreationTimeUnixTimeInMs": 1721840057093,
             "ModificationTimeUnixTimeInMs": 1721840057093
         },
@@ -50,6 +36,20 @@
             "Name": "Ping",
             "Description": "Check connectivity",
             "Id": 114,
+            "CreationTimeUnixTimeInMs": 1721840057093,
+            "ModificationTimeUnixTimeInMs": 1721840057093
+        },
+        {
+            "Name": "Parse Base64 Email",
+            "Description": "This action is an improved version of Parse EML Base64 blob.  It will parse EML and MSG files.",
+            "Id": 115,
+            "CreationTimeUnixTimeInMs": 1721840057093,
+            "ModificationTimeUnixTimeInMs": 1721840057093
+        },
+        {
+            "Name": "Parse EML Base64 Blob",
+            "Description": "This action will decode a base64 string and attempt to parse it as an EML file.  It will return a list of parsed objects.",
+            "Id": 116,
             "CreationTimeUnixTimeInMs": 1721840057093,
             "ModificationTimeUnixTimeInMs": 1721840057093
         }
