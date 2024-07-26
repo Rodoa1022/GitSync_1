@@ -249,7 +249,7 @@
         "environment": "*",
         "integrationIdentifier": "GoogleChronicle__6250f1d3-c36c-4528-be4f-48b02e155a70",
         "settings": {
-            "instanceDescription": null,
+            "instanceDescription": " ",
             "instanceName": "GoogleChronicle - Default Staging Instance",
             "settings": [
                 {
@@ -287,7 +287,7 @@
                     "propertyDisplayName": "User's Service Account",
                     "propertyType": 3,
                     "isMandatory": false,
-                    "value": "***************",
+                    "value": "",
                     "integrationInstance": "45c42c6f-69e4-47b4-8d44-5b7dae47b638",
                     "environment": null,
                     "id": 0,
@@ -301,7 +301,7 @@
                     "propertyDisplayName": "Verify SSL",
                     "propertyType": 0,
                     "isMandatory": false,
-                    "value": "true",
+                    "value": "True",
                     "integrationInstance": "45c42c6f-69e4-47b4-8d44-5b7dae47b638",
                     "environment": null,
                     "id": 0,
@@ -381,7 +381,7 @@
                     "propertyDisplayName": "Run Remotely",
                     "propertyType": 0,
                     "isMandatory": false,
-                    "value": "False",
+                    "value": "True",
                     "integrationInstance": "6d40b5e9-27fd-4c8b-845c-a66bb1be52a9",
                     "environment": null,
                     "id": 0,
