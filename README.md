@@ -6,6 +6,7 @@
 |Connectors|A set of custom connectors created for Google SecOps Community to power up automation capabilities.|
 |Cybereason|Cybereason automatically detects malicious activity and presents it in an intuitive way. It deploys easily with minimal organizational impact and provides end-to-end context of an attack campaign.|
 |EmailUtilities|A set of utility actions to assist with working with emails.  Includes actions to parse EMLs and analyze email headers.|
+|EmailV2|Email integration over smtp and imap protocols|
 |Enrichment|A set of entity enrichment actions to assist in the managing of entity attributes.|
 |FileUtilities|A set of file utility actions created for Google SecOps Community to power up playbook capabilities.|
 |Functions|A set of math and data manipulation actions created for Google SecOps Community to power up playbook capabilities.|
@@ -26,4 +27,10 @@
 |TemplateEngine|Template Engine integration provides the ability to render templates using Jinja2. Jinja2 provide fast and flexible ways to create rich templates. These templates can be used in entity insights, emails, ticketing systems, or any action that can take in a text string.Jinja2 documentation can be found at https://jinja.palletsprojects.com/en/2.11.x/|
 |Tools|A set of utility actions for data manipulation and common platform tasks to power up playbook capabilities.|
 |VirusTotal|VirusTotal is a service that analyzes files and URLs for viruses, worms, trojans and other kinds of malicious content. VirusTotal aggregates many antivirus products and online scan engines to check for viruses that the user's own antivirus may have missed, or to verify against any false positives. Use VirusTotal to investigate suspicious files, domains, URLs, IP addresses, and hashes.|
+
+
+## Connectors
+|Name|Description|Has Mappings|
+|----|-----------|------------|
+|Generic IMAP Email Connector||True|
 

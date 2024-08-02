@@ -1,0 +1,257 @@
+{
+  "IsAvailableForCommunity": false,
+  "Identifier": "EmailV2",
+  "ShouldInstalledInSystem": false,
+  "Version": 32.0,
+  "DisplayName": "EmailV2",
+  "Description": "Email integration over smtp and imap protocols",
+  "ImageBase64": "iVBORw0KGgoAAAANSUhEUgAAALYAAABjCAMAAAAB3QqqAAAAsVBMVEX///9Lst48NzdUtuBOtN9Ns94goNZWUlIrpdlQtN8mo9exr6+koqIjodcwp9lEsN3Lyso4qts7q9tBrt01qdqKh4f7/v9Isd7f8vlduuIdn9by+v2f1u4/rdzW7fjG5/XA5PSn2e9+yOhYuOHm9Pq64vOa1O10xOZJRET2+/6V0uzl5OTu+PxtweXO6vZjvOOXlJSv3fGOzuuHzOnY19cMmNN9enry8vJwbGxjX1++vLzHABj9AAADtElEQVR42u3YW1faQBSG4S9hT5pMSWhITDiIoBxUPOAJrf3/P6x7B2rVIgYLK1zs94KVtbx52M6QTKBpmqZpmqZpmqZpmqZpmqZpqzs/9WubN0yHI1RYF7gKnU0jn7qosmDEbs8xm6mtqE9QXXFvxAAvNxup26w+9VFdw6jX2tBNYTtjtVdDddUoaoq70yjpNo63UDuVsh1294E726RS6oa9As55O1TMdoLYHgO3fkxl1N4dMMqtqZztUM87BAYl3CYJD4FW0yenejbPUNz9T92mUah7fuDsA1s8hTul9bP2ilmzej/YMu8pu6OU1q6QY+CoGQXOvrCXe+068j90B7En6pTV+8Nmtz3JcBR85KYoHgNjmfX/sg9c9wCou677/T/Z4nY67QxZO6TV6qQFHHdiVq9i/3CX/cCnudzW2MVd+/wDN/nJiNVhzzibsHc/bYls0EU288xq9cRLyNkCW9oiW9ymC8zCd2pj6RKYdli9jn3w4rl5OnD5Ew+PrntW2B7q31y+roPjq2/bZMtYg1bxnGTeqGtdZNOwYZyS7LNnV/p55kqCY3/R4w7YYpm3we5Og1498g0zYDBvBs56tlR43vX8ehE97GbawyNwU9ujlxv6CbjuxDZMafa3i6czGTceZGmAq18ANyLdAZt8yoBhHzi2TVqovXvgvH0tOzI3Zdk3i2XxqzC6xdqWr7EbduAnl8DVPGLkWNwy6ymrh/N4BNx7Zde2eGRTXvxh/+LPXbGDaHGwDNKFOyae9YTVNVuL8q78ib7Ils8f+L4LNqVRC7jz+Cr2+8W880IdWHLI1jI549PX2LLCn/Bz+2yxXgOHvIDl2g6AQThn9aXxxUrhDMja9tOb+0r22a4WSRCHLL1d/jhT0x8Dx3eszi05kgmvZPIhfYV940qPz9tmUxqxemITVi/dE3D9RA4FS/csw2Xb0ubshbuO+lbZooz6wOGr1w6UdO5lfUesXkadGYB2uDfHBOpZWSEeq18yuXc4iN68hiDvFMgCuyeHMpOEt7IDe/T2RU6cJuS8zngnQLexH0dg0yiOW/4/L3jy3HlfZwqM4mgPXjiYXCxH6fpj+9+VI98wparZpiF7rxXz3iuR/GcWr1SqZZtGOFkeyEtlEivzjlOqlJ17U6BVWl38MspOiJpDVFdNnksv5fVY6UwvHAN9m6O6/FNWm/Lq5R10AIx9VJfcP8iWVL996rpFpc0sORtGadpCpXVPomFt44ZNakHTNE3TNE3TNE3TNE3TtL3pN3KbSqJCXYAOAAAAAElFTkSuQmCC",
+  "SvgImage": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"\r\n\t viewBox=\"0 0 25 25\" style=\"enable-background:new 0 0 25 25;\" xml:space=\"preserve\">\r\n<g>\r\n\t<g>\r\n\t\t<path d=\"M12.3,14.7c0.1,0.1,0.2,0.1,0.4,0l10.2-9.6C23,5,22.9,4.6,22.5,4.6H2.3C2.1,4.6,2,5,2.1,5.1L12.3,14.7z M7.7,12L1.2,5.8\r\n\t\t\tC1,5.7,0.8,5.8,0.8,6.1v12.8c0,0.2,0.4,0.4,0.5,0.2l6.5-6.7C7.8,12.3,7.8,12.1,7.7,12z M23.6,6L17.1,12c-0.1,0.1-0.1,0.2,0,0.4\r\n\t\t\tl6.7,6.8c0.1,0.2,0.5,0,0.5-0.2V6.1C24.1,6,23.9,5.8,23.6,6z M16.5,13.1c-0.1-0.1-0.2-0.1-0.4,0l-3.4,3.4c-0.1,0.1-0.2,0.1-0.4,0\r\n\t\t\tl-3.5-3.4c-0.2-0.1-0.4-0.1-0.5,0L2,19.9c-0.1,0.2,0,0.5,0.2,0.5h20.5c0.2,0,0.4-0.2,0.2-0.5L16.5,13.1z\"/>\r\n\t</g>\r\n</g>\r\n</svg>\r\n",
+  "IsCustom": true,
+  "PythonVersion": 2,
+  "IntegrationProperties": [
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "Sender's address",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "Sender's Address",
+      "PropertyType": 2,
+      "IsMandatory": true,
+      "Value": "user@mail.com",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "Sender's Display Name",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "Sender's Display Name",
+      "PropertyType": 2,
+      "IsMandatory": true,
+      "Value": "",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "SMTP Server Address",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "SMTP Server Address",
+      "PropertyType": 5,
+      "IsMandatory": false,
+      "Value": "Not yet configured",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "SMTP Port",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "SMTP Port",
+      "PropertyType": 2,
+      "IsMandatory": false,
+      "Value": "Not yet configured",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "IMAP Server Address",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "IMAP Server Address",
+      "PropertyType": 5,
+      "IsMandatory": false,
+      "Value": "Not yet configured",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "IMAP Port",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "IMAP Port",
+      "PropertyType": 2,
+      "IsMandatory": false,
+      "Value": "Not yet configured",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "Username",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "Username",
+      "PropertyType": 2,
+      "IsMandatory": true,
+      "Value": "user@mail.com",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "Password",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "Password",
+      "PropertyType": 3,
+      "IsMandatory": true,
+      "Value": null,
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "SMTP USE SSL",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "SMTP - Use SSL",
+      "PropertyType": 0,
+      "IsMandatory": false,
+      "Value": "",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "IMAP USE SSL",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "IMAP - Use SSL",
+      "PropertyType": 0,
+      "IsMandatory": false,
+      "Value": "",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    },
+    {
+      "IntegrationIdentifier": "EmailV2",
+      "PropertyName": "SMTP Use Authentication",
+      "PropertyDescription": null,
+      "PropertyDisplayName": "SMTP - Use Authentication",
+      "PropertyType": 0,
+      "IsMandatory": false,
+      "Value": "",
+      "Id": 0,
+      "CreationTimeUnixTimeInMs": 1722632463228,
+      "ModificationTimeUnixTimeInMs": 1722632463228
+    }
+  ],
+  "IntegrationSupportedActions": [
+    {
+      "Name": "DownloadEmailAttachments",
+      "Description": "Download email attachments from email to specific file path on Siemplify server. Requires: IMAP configuration",
+      "Id": 331,
+      "CreationTimeUnixTimeInMs": 1722632463177,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Move Email To Folder",
+      "Description": "Searches for emails in the source folder, then moves emails matching the search criteria to the target folder. Requires: IMAP configuration",
+      "Id": 332,
+      "CreationTimeUnixTimeInMs": 1722632463177,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Send Thread Reply",
+      "Description": "Send a message as a reply to the email thread.",
+      "Id": 333,
+      "CreationTimeUnixTimeInMs": 1722632463177,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Copy of Send Email",
+      "Description": "Send email message. Requires: SMTP configuration",
+      "Id": 334,
+      "CreationTimeUnixTimeInMs": 1722632463177,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Save Email Attachments To Case",
+      "Description": "Save email attachments from email stored in monitored mailbox to the Case Wall. Requires: IMAP configuration",
+      "Id": 335,
+      "CreationTimeUnixTimeInMs": 1722632463178,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Forward Email",
+      "Description": "Forward email including previous messages. Message_id of the email to forward needs to be provided as an action input parameter.",
+      "Id": 336,
+      "CreationTimeUnixTimeInMs": 1722632463178,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Send Email",
+      "Description": "Send email message. Requires: SMTP configuration",
+      "Id": 341,
+      "CreationTimeUnixTimeInMs": 1722632463179,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Delete Email",
+      "Description": "Delete one or multiple email from the mailbox that matches search criteria. Delete can be done for the first email that matched the search criteria, or it can be done for all matching emails. Requires: IMAP configuration",
+      "Id": 337,
+      "CreationTimeUnixTimeInMs": 1722632463178,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Send Email StartTLS Test",
+      "Description": "Send email message. Requires: SMTP configuration",
+      "Id": 338,
+      "CreationTimeUnixTimeInMs": 1722632463178,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Ping",
+      "Description": "Test Connectivity. Requires: IMAP or SMTP configuration",
+      "Id": 339,
+      "CreationTimeUnixTimeInMs": 1722632463178,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Search Email",
+      "Description": "Search email messages. Requires: IMAP configuration",
+      "Id": 340,
+      "CreationTimeUnixTimeInMs": 1722632463178,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "DEBUG - Wait for Email from User",
+      "Description": "Wait for user's response based on an email sent via Send Email action. Note: This is a Siemplify async action, if required, please adjust the async timeout for action (polling timeout) and global action timeout as needed. Action input parameter “Wait stage timeout (minutes)“ cant be larger than global timeout. Note: Please make sure to set IDE timeout as well, as the IDE timeout will override the action’s timeout if the IDE timeout will be shorter. Requires: IMAP configuration",
+      "Id": 342,
+      "CreationTimeUnixTimeInMs": 1722632463179,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    },
+    {
+      "Name": "Wait for Email from User",
+      "Description": "Wait for user's response based on an email sent via Send Email action. Note: This is a Siemplify async action, if required, please adjust the async timeout for action (polling timeout) and global action timeout as needed. Action input parameter “Wait stage timeout (minutes)“ cant be larger than global timeout. Note: Please make sure to set IDE timeout as well, as the IDE timeout will override the action’s timeout if the IDE timeout will be shorter. Requires: IMAP configuration",
+      "Id": 343,
+      "CreationTimeUnixTimeInMs": 1722632463179,
+      "ModificationTimeUnixTimeInMs": 1722632463244
+    }
+  ],
+  "Categories": [
+    "IT & Infrastructure",
+    "Email",
+    "Free to use"
+  ],
+  "HasConnectors": false,
+  "DocumentationLink": "https://cloud.google.com/chronicle/docs/soar/marketplace-integrations/email-v2",
+  "IsCertified": false,
+  "UploaderFullName": null,
+  "PublishComment": null,
+  "UploaderEmail": null,
+  "UploaderImageBase64": "",
+  "UploaderProfileLink": null,
+  "MinimumSystemVersion": 0.0,
+  "ProductionIntegrationIdentifier": null,
+  "Id": 0,
+  "CreationTimeUnixTimeInMs": 1722632463228,
+  "ModificationTimeUnixTimeInMs": 1722632463228
+}
