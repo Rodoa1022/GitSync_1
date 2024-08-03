@@ -365,7 +365,7 @@
     "connectorStatus": {
         "connectorIdentifier": "Generic IMAP Email Connector_055e3705-f92d-46d5-8f27-56eedf174c78",
         "connectivityStatus": 1,
-        "amountAlertsInLastDay": 4,
+        "amountAlertsInLastDay": 0,
         "avgAlertsPerDay": 4
     },
     "isNew": false,
